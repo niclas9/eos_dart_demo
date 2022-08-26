@@ -11,3 +11,7 @@ dev_dependencies:
 dependencies: 
   dart_esr:
     path: ../dart-esr
+    
+eosdart:
+    git:
+      url: https://github.com/niclas9/eosdart.git
